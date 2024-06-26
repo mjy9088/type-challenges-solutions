@@ -1,0 +1,6 @@
+{
+  "private": "true",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
